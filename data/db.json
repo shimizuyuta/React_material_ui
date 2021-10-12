@@ -1,0 +1,22 @@
+{
+    "notes":[
+        {
+            "title":"hello taro",
+            "details":"aaaaaaaaaaaaaaaaaaaaaaaa",
+            "category":"reminders",
+            "id":1
+        },
+        {
+            "title":"2hello taro",
+            "details":"aaaaaaaaaaaaaaaaaaaaaaaa",
+            "category":"work",
+            "id":2
+        },
+        {
+            "title":"3hello taro",
+            "details":"3aaaaaaaaaaaaaaaaaaaaaaaa",
+            "category":"todos",
+            "id":3
+        }
+    ]
+}
